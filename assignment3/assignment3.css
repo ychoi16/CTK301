@@ -1,0 +1,49 @@
+header {
+  background-color: red;
+  color: white;
+}
+
+main {
+  background-color: black;
+  color: red;
+}
+
+footer {
+  background-color: lightgrey;
+}
+
+nav {
+  background-color: purple;
+}
+
+a {
+  color: red;
+}
+
+a:hover {
+  color: yellow;
+}
+
+a:visited {
+  color: green;
+}
+
+.turnwhite {
+  color: white;
+}
+
+.turnpink {
+  color: lightpink;
+}
+
+.turnblue {
+  color: lightblue;
+}
+ .turnpurple {
+   color:purple;
+ }
+
+#divdiv {
+  background-color: lightblue;
+  color: orange; 
+}
