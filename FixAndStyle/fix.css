@@ -1,0 +1,50 @@
+header {
+  background-color: #a8a5f0;
+}
+
+.turnwhite {
+  color: white;
+}
+
+.turnblue {
+  color:blue
+}
+
+.turnorange {
+  color:orange;
+}
+
+a {
+  color: green;
+  text-decoration: none;
+}
+
+a:hover{
+  color:red;
+  text-decoration: underline;
+}
+
+.turnyellow{
+  background-color:yellow;
+}
+
+.turnred{
+  color:red;
+}
+
+.turngreen{
+  background-color: green;
+  color: yellow;
+}
+
+.turnlightgreen{
+  background-color: lightgreen;
+}
+
+footer{
+  background-color:yellow;
+}
+
+#red{
+  color:red;
+}
