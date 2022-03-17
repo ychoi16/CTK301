@@ -1,0 +1,27 @@
+h2{
+  color: blue;
+  font-family: helvetica;
+  font-weight: normal;
+}
+ .p1{
+   font-weight: bold;
+   text-align: justify;
+
+ }
+ .floatimage{
+   border: 3px solid #0760A1;
+   margin-left: 10px;
+   float: right;
+}
+.p4{
+  clear:both;
+}
+
+main{
+  padding: 20px;
+}
+
+.turnred{
+  color: red;
+  font-weight: bold;
+}
