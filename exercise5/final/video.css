@@ -1,0 +1,44 @@
+h2{
+  color: white;
+  text-align: center;
+}
+h2 a{
+  text-align: center;
+  color: white;
+  font-weight: lighter;
+
+}
+
+h2 a:hover{
+text-align: center;
+  color:white;
+  font-weight: bold;
+}
+
+#vidwrap{
+  margin: 1em auto;
+  padding: 0;
+  width: 1500px;
+  background-color: #ffffff;
+  display: grid;
+}
+
+.vid1{
+  width:1420px;
+  margin: 20px;
+}
+
+.vid2{
+  width:1420px;
+  margin: 20px;
+}
+
+.vid3{
+  width:1420px;
+  margin: 20px;
+}
+
+.vid4{
+  width:1420px;
+  margin: 20px;
+}
