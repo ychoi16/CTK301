@@ -1,0 +1,13 @@
+
+main{
+background-color: grey;
+width:1000px auto;
+margin: 20px;
+padding: 10px;
+
+}
+
+h2{
+  color: white;
+  border-bottom: 3px solid white;
+}
